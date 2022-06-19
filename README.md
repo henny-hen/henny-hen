@@ -33,7 +33,7 @@
   
   </br>
 <p align="center">
-<img href="https://www.linkedin.com/in/henny-s%C3%A1nchez-angulo-928665147" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img href="https://www.linkedin.com/in/henny-snchez-angulo-928665147" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
