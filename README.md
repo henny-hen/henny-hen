@@ -23,17 +23,12 @@
 --->
 
 - ⚙️ I use daily: `.svg`, `.psd`, `.ai`, `.java`, `.sh`.
-- I have experience on Java, C, Bash and HTML languages.
-- I use and know about SQL and MySQL server, and also MariaDB.
+- I have experience on `Java`,` C`, `Bash` and `HTML` languages.
+- I use and know about `SQL` and MySQL server, and also `MariaDB`.
 - I have experience on Git too.
 - The tools I normally to design use are: Canva, Photoshop, Procreate, Illusrator
 - For coding I use VIM, NVIM and Visual Studio Code as IDEs
 - For UI/UX design I use Figma
--
-  
-  </br>
-<p align="center">
-<img href="https://www.linkedin.com/in/henny-snchez-angulo-928665147" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
