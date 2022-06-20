@@ -1,6 +1,6 @@
 ### **Boo!!**
 
-#### I’m Henny Sánchez, a Computer Science student, and I live in Madrid.
+#### I’m Henny Sánchez, a Computer Science student from Madrid.
 
 - ✨ I love design and coding (don't tell my friends about the last one hahaha)
 - 🍑 Not like most of digital signals, I'm **Non-Binary** (perfect pun huh? haha), and my pronouns are **He/She**
@@ -20,15 +20,16 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="30">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="30">
---->
 
-- ⚙️ I use daily: `.svg`, `.psd`, `.ai`, `.java`, `.sh`.
-- I have experience on `Java`,` C`, `Bash` and `HTML` languages.
-- I use and know about `SQL` and MySQL server, and also `MariaDB`.
-- I have experience on Git too.
-- The tools I normally to design use are: Canva, Photoshop, Procreate, Illusrator
-- For coding I use VIM, NVIM and Visual Studio Code as IDEs
-- For UI/UX design I use Figma
+
+-  I use daily: `.svg`, `.psd`, `.ai`, `.java`, `.sh`.
+--->
+##### **Languages and tools 👨‍💻 🛠:**  
+- ⚙️ I have experience in `Java`,`C`, `Bash` and `HTML` languages.
+- 🌐 I use and know about `SQL` and MySQL server, and also `MariaDB`
+- 🔵 I have experience on `Git` commands too
+- 🎨 The tools I normally to design use are: Canva, Photoshop, Procreate, Illustrator and Figma
+- 👩‍💻 For coding I use VIM, NVIM and Visual Studio Code as IDEs
 
 
 
