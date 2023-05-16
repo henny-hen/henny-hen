@@ -3,7 +3,7 @@
 #### I’m Henny Sánchez, a Computer Science student from Madrid.
 
 - ✨ I love design and coding (don't tell my friends about the last one hahaha)
-- 🍑 Not like most of digital signals, I'm **Non-Binary** (perfect pun huh? haha), and my pronouns are **He/She**
+- 🍑 Not like most of digital signals, I'm **Non-Binary** (perfect pun huh? haha), and my pronouns are **She/He**
 - ⚡️ Fun fact: I'm a huge fan of Fujii Kaze and Vera Wang
 * 🔭 Some of my **Hobbies** are Graphic Design, Illustration and Art, Tech stuff, reading manga or light novels, Fashion and Fashion History
 
