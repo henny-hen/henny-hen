@@ -2,12 +2,10 @@
 
 #### I’m Henny Sánchez, a Computer Science student from Madrid.
 
-- ✨ I love design and coding (don't tell my friends about the last one hahaha)
-- 🍑 Not like most of digital signals, I'm **Non-Binary** (perfect pun huh? haha), and my pronouns are **She/He**
 - ⚡️ Fun fact: I'm a huge fan of Fujii Kaze and Vera Wang
 * 🔭 Some of my **Hobbies** are Graphic Design, Illustration and Art, Tech stuff, reading manga or light novels, Fashion and Fashion History
 
-- 🌱 Learning all about **Open Source**, **Python** and **CSS**
+- 🌱 Learning all about **Systems Architecture Design**, **DevOps** and **Open Source Developing**, 
 
 <!---
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
@@ -24,8 +22,9 @@
 
 -  I use daily: `.svg`, `.psd`, `.ai`, `.java`, `.sh`.
 --->
-##### **Languages and tools 👨‍💻 🛠:**  
-- ⚙️ I have experience in `Java`,`C`, `Bash` and `HTML` languages.
+##### **Languages, tools and experience👨‍💻 🛠:**  
+- ⚙️ I have experience in `Java`,`C`, `Bash` and `Python` languages.
+- ✨ I've also got experience in **AWS and AWS architecture design** (with certificaions like the "Cloud Foundations Associate Certification") and **Azure Services** 
 - 🌐 I use and know about `SQL` and MySQL server, and also `MariaDB`
 - 🔵 I have experience on `Git` commands too
 - 🎨 The tools I normally to design use are: Canva, Photoshop, Procreate, Illustrator and Figma
